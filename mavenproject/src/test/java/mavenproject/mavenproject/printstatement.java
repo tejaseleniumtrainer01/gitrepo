@@ -7,7 +7,7 @@ public class printstatement {
 		System.out.println("Hi");
 		System.out.println("How are you teja?");
 		System.out.println("Bye");
-		
+		System.out.println("core java");
 	}
 
 }
