@@ -5,7 +5,7 @@ public class printstatement {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hi");
-		System.out.println("How are you?");
+		System.out.println("How are you teja?");
 		System.out.println("Bye");
 		
 	}
